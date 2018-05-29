@@ -1,0 +1,16 @@
+.form-control {
+    display: inline-block;
+    width: 250px;
+    margin-top: 50px;
+  }
+  tfoot input {
+    width: 100%;
+    padding: 3px;
+    box-sizing: border-box;
+}
+header { 
+padding: 5px 0 0 0 ;
+width: 100%;
+background-image: url('ufo_image.jpg');
+};
+  
